@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737896036460",
+    "project_id": "hi-5-1a051",
+    "storage_bucket": "hi-5-1a051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737896036460:android:a31af689325aace6590049",
+        "android_client_info": {
+          "package_name": "com.adak.hi5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737896036460-7fh7uadglil10thllut400ej2ue92ejg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs2nnrF3AXiWzeaDg15UTXmti2R7_02Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737896036460-7fh7uadglil10thllut400ej2ue92ejg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
